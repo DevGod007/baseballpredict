@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-3l8l3u*i4@2g39&s=hzh)r1yj^0g48w4gki(9u!72#f-yfkuv7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'mlbpredict.onrender.com']
 
 
 # Application definition
